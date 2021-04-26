@@ -12,4 +12,5 @@ You can check the app code here on [this repository](https://github.com/Douglas-
 2. cd nano-now-api <br>
 3. npm install <br>
 4. Edit the script ./database/db.js to connect to your mongodb
-5. npm start to run the server <br>
+5. Edit the sript Nano.js to add your wallet seed.
+6. npm start to run the server <br>
