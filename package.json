@@ -1,0 +1,22 @@
+{
+  "name": "nano-now-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "capbing",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "mongoose": "^5.12.3",
+    "nanopay": "^2.1.1",
+    "zip": "^1.2.0",
+    "zip-a-folder": "^1.0.1",
+    "zlib": "^1.0.5"
+  }
+}
